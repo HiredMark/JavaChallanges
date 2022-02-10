@@ -1,2 +1,2 @@
-# JavaChallanges
-Here I carry out a number of challanges to get better, feel free to peak. 
+# Isogram Challenge
+Make sure a word has no repeating letters
